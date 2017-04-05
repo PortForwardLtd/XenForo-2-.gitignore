@@ -1,0 +1,48 @@
+# XenForo 2 - Developer Preview 6 Only.
+#
+# This Git Ignore should still allow you to remain working within the guidelines
+# set out by the XenForo 2 Developer Docs. It is to aid teams working on the same
+# large project.
+
+/internal_data/
+
+/install/
+
+/js/vendor/
+/js/xf/
+
+/library/
+
+/src/addons/XF
+/src/vendor/
+/src/XF/
+/src/.htaccess
+/src/config.php
+/src/XF.php
+
+/styles/default/
+/styles/fonts/fa/
+/styles/fonts/videojs/
+
+/admin.php
+/cmd.php
+/connected_account.php
+/css.php
+/htaccess.txt
+/index.php
+/job.php
+/payment_callback.php
+/proxy.php
+/sitemap.php
+
+# We could probably delete the following files, but until I know better
+
+/data/index.html
+
+/js/index.html
+/js/devjs.php
+
+/src/addons/index.html
+/src/index.html
+
+/styles/index.html
